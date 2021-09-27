@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109495355251",
+    "project_id": "login-and-home-page",
+    "storage_bucket": "login-and-home-page.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109495355251:android:c63cd37319b14c5cfba706",
+        "android_client_info": {
+          "package_name": "com.example.loginandsecondpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109495355251-j6oe4hdnts59gaeor13l5sbsh0gpg56k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRHzNzE8YHbFlfa0Wq0hq_66qliyAlUV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109495355251-j6oe4hdnts59gaeor13l5sbsh0gpg56k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
